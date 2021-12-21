@@ -9,7 +9,7 @@ The purpose of this project was to create a way to simply and quickly create nam
 
 
 ### How to modify parameters
-After the program is in OpenSCAD, modify the parameters where they are described. 
+After opening the file in OpenSCAD, modify the parameters where they are described. 
 * Regarding the text, you can change the name, font, style, size, spacing, and distance between the letters and the top (first name), left, and bottom (last name) of the plate.
 * Regarding the plate, you can change the length, width, and height.
 * Notes are written to instruct what each element can be changed to and does.
