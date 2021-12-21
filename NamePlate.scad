@@ -63,12 +63,12 @@ nameyoffset = 16;
 
 
 
-//Length of plate from left to right
+//Length of plate from top to bottom
 
 platewidth = 75.9;
 
 
-//Length of plate from top to bottom
+//Length of plate from left to right
 
 platelength = 177;
 
