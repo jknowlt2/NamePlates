@@ -4,6 +4,9 @@
 
 The purpose of this project was to create a way to simply and quickly create nameplates for use around the CRC Office.
 
+## Next Improvement
+
+The next improvement to this will be incorporate the CRC logo, making it easy to add or remove from the left side.
 
 ## Instructions
 
